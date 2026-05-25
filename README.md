@@ -235,5 +235,6 @@ Instituto Profesional IACC — 2026
 
 - McKinney, W. (2022). *Python para análisis de datos*. O'Reilly Media.
 - IACC. (2026). *Aplicación práctica y reflexión ética*. Ciencia de Datos.
+- IACC (2026). *Presentación y reflexión ética de resultados de Análisis*. Ciencia de Datos. Semana 8
 - Pandas Development Team. https://pandas.pydata.org/
 - Seaborn Documentation. https://seaborn.pydata.org/
